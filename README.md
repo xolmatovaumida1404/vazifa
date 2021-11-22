@@ -1,0 +1,2 @@
+# vazifa
+github bilan ishlash
